@@ -1,4 +1,4 @@
-<h1>Hi there 👋 I'm Pedro Lima</h1>,
+<h1>Hi there 👋 I'm Pedro Lima</h1>
 <ul>
   <li>💻 I'm backend developer</li>
   <li>🔭 I’m currently working on NodeJS;</li>
