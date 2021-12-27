@@ -1,6 +1,9 @@
-Hi there 👋 I'm Pedro Lima,
-💻 I'm backend developer
-🔭 I’m currently working on NodeJS;
-🌱 I’m currently learning NodeJS, Elixir and ReactJS;
-📝 I'm graduated in Information Systems;
-📫 How to reach me: Linkedin
+<h1>Hi there 👋 I'm Pedro Lima</h1>,
+<ul>
+  <li>💻 I'm backend developer</li>
+  <li>🔭 I’m currently working on NodeJS;</li>
+  <li>🌱 I’m currently learning NodeJS, Elixir and ReactJS;</li>
+  <li>📝 I'm graduated in Information Systems;</li>
+  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/pedro-lima-a0223a170/">Linkedin</a></li>
+</ul>
+
