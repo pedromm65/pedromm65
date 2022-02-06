@@ -4,6 +4,6 @@
   <li>🔭 I’m currently working on NodeJS;</li>
   <li>🌱 I’m currently learning NodeJS, Elixir and ReactJS;</li>
   <li>📝 I'm graduated in Information Systems;</li>
-  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/pedro-lima-a0223a170/">Linkedin</a></li>
+  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/pedrohlimadev/">Linkedin</a></li>
 </ul>
 
