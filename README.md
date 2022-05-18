@@ -48,6 +48,6 @@ I've been learning to code for 5 years, after switching careers. I started with 
 
 <a href="https://github.com/pedromm65" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromm65&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b> 
+<b>Top Repositories</b>  
 
 <div width="100%" align="center"><a href="https://github.com/pedromm65/RENTX" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pedromm65&repo=RENTX&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
