@@ -3,7 +3,7 @@ Hi 👋 My name is Pedro Lima
  
 I'm backend developer 
 ---------------------
-  
+   
 I've been learning to code for 5 years, after switching careers. I started with C and have really found a passion for backend development... I'm graduated in Information Systems;
 
 * 🌍  I'm based in Rio de Janeiro - Brazil
