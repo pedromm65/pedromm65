@@ -9,7 +9,6 @@ I've been learning to code for 5 years, after switching careers. I started with 
 * 🌍  I'm based in Rio de Janeiro - Brazil
 * ✉️  You can contact me at [pedrohlimadev@gmail.com](mailto:pedrohlimadev@gmail.com)
 * 🧠  I'm learning NodeJS, Elixir and ReactJS; 
-* ⚡  I'm prince of Wakanda
 
 ### Skills
      
