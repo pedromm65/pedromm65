@@ -6,7 +6,7 @@ I'm backend developer
 
 * 🌍  I'm based in Rio de Janeiro - Brazil
 * ✉️  You can contact me at [pedrohlimadev@gmail.com](mailto:pedrohlimadev@gmail.com)
-* 🧠  I'm learning NodeJS, Elixir and ReactJS; 
+* 🧠  I'm learning NodeJS and Java; 
 
 ### Skills
      
